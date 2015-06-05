@@ -1,0 +1,8 @@
+E:\C言語\C#\C#\Cal\Cal\bin\Debug\Cal.exe
+E:\C言語\C#\C#\Cal\Cal\bin\Debug\Cal.pdb
+E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.Form1.resources
+E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.Properties.Resources.resources
+E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.csproj.GenerateResource.Cache
+E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.exe
+E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.pdb
+E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.csprojResolveAssemblyReference.cache
