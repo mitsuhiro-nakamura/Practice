@@ -6,3 +6,11 @@ E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.csproj.GenerateResource.Cache
 E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.exe
 E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.pdb
 E:\C言語\C#\C#\Cal\Cal\obj\x86\Debug\Cal.csprojResolveAssemblyReference.cache
+C:\Users\cs12061\Desktop\Practice\Cal\Cal\obj\x86\Debug\Cal.exe
+C:\Users\cs12061\Desktop\Practice\Cal\Cal\obj\x86\Debug\Cal.pdb
+C:\Users\cs12061\Desktop\Practice\Cal\Cal\bin\Debug\Cal.exe
+C:\Users\cs12061\Desktop\Practice\Cal\Cal\bin\Debug\Cal.pdb
+C:\Users\cs12061\Desktop\Practice\Cal\Cal\obj\x86\Debug\Cal.csprojResolveAssemblyReference.cache
+C:\Users\cs12061\Desktop\Practice\Cal\Cal\obj\x86\Debug\Cal.Form1.resources
+C:\Users\cs12061\Desktop\Practice\Cal\Cal\obj\x86\Debug\Cal.Properties.Resources.resources
+C:\Users\cs12061\Desktop\Practice\Cal\Cal\obj\x86\Debug\Cal.csproj.GenerateResource.Cache
