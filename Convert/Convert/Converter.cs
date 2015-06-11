@@ -13,7 +13,7 @@ namespace Convert
             string s;
 
             // 10進数→2進数へと変換する
-            s = Convert.ToString(128, 2);
+            s =System.Convert.ToString(128, 2);
             Console.WriteLine(s);
         }
     }

@@ -1,0 +1,6 @@
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASL\ASL\bin\Debug\ASL.exe.config
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASL\ASL\bin\Debug\ASL.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASL\ASL\bin\Debug\ASL.pdb
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASL\ASL\obj\Debug\ASL.csprojResolveAssemblyReference.cache
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASL\ASL\obj\Debug\ASL.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASL\ASL\obj\Debug\ASL.pdb
