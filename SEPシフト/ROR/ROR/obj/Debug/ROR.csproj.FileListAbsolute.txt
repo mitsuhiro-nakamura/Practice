@@ -1,0 +1,6 @@
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROR\ROR\bin\Debug\ROR.exe.config
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROR\ROR\bin\Debug\ROR.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROR\ROR\bin\Debug\ROR.pdb
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROR\ROR\obj\Debug\ROR.csprojResolveAssemblyReference.cache
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROR\ROR\obj\Debug\ROR.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROR\ROR\obj\Debug\ROR.pdb

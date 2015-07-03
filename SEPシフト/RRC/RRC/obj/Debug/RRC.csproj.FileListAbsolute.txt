@@ -1,0 +1,6 @@
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RRC\RRC\bin\Debug\RRC.exe.config
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RRC\RRC\obj\Debug\RRC.csprojResolveAssemblyReference.cache
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RRC\RRC\bin\Debug\RRC.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RRC\RRC\bin\Debug\RRC.pdb
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RRC\RRC\obj\Debug\RRC.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RRC\RRC\obj\Debug\RRC.pdb

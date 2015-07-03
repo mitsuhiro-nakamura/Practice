@@ -1,0 +1,6 @@
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\LSL\LSL\bin\Debug\LSL.exe.config
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\LSL\LSL\bin\Debug\LSL.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\LSL\LSL\bin\Debug\LSL.pdb
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\LSL\LSL\obj\Debug\LSL.csprojResolveAssemblyReference.cache
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\LSL\LSL\obj\Debug\LSL.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\LSL\LSL\obj\Debug\LSL.pdb

@@ -1,0 +1,9 @@
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RLC\RLC\bin\Debug\RLC.exe.config
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RLC\RLC\obj\Debug\RLC.csprojResolveAssemblyReference.cache
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RLC\RLC\bin\Debug\RLC.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RLC\RLC\bin\Debug\RLC.pdb
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RLC\RLC\obj\Debug\RLC.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\RLC\RLC\obj\Debug\RLC.pdb
+C:\Users\cs12061\Desktop\Practice\RLC\RLC\bin\Debug\RLC.exe.config
+C:\Users\cs12061\Desktop\Practice\RLC\RLC\obj\Debug\RLC.exe
+C:\Users\cs12061\Desktop\Practice\RLC\RLC\obj\Debug\RLC.pdb

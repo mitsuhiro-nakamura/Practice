@@ -1,0 +1,6 @@
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROL\ROL\bin\Debug\ROL.exe.config
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROL\ROL\bin\Debug\ROL.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROL\ROL\bin\Debug\ROL.pdb
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROL\ROL\obj\Debug\ROL.csprojResolveAssemblyReference.cache
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROL\ROL\obj\Debug\ROL.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ROL\ROL\obj\Debug\ROL.pdb

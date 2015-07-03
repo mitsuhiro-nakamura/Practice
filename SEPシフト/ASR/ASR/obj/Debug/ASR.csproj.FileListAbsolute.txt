@@ -1,0 +1,6 @@
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASR\ASR\bin\Debug\ASR.exe.config
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASR\ASR\bin\Debug\ASR.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASR\ASR\bin\Debug\ASR.pdb
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASR\ASR\obj\Debug\ASR.exe
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASR\ASR\obj\Debug\ASR.pdb
+c:\users\mitsuhiro\documents\visual studio 2013\Projects\ASR\ASR\obj\Debug\ASR.csprojResolveAssemblyReference.cache

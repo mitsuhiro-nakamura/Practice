@@ -3,3 +3,6 @@ c:\users\mitsuhiro\documents\visual studio 2013\Projects\ConvertFigure\ConvertFi
 c:\users\mitsuhiro\documents\visual studio 2013\Projects\ConvertFigure\ConvertFigure\bin\Debug\ConvertFigure.pdb
 c:\users\mitsuhiro\documents\visual studio 2013\Projects\ConvertFigure\ConvertFigure\obj\Debug\ConvertFigure.exe
 c:\users\mitsuhiro\documents\visual studio 2013\Projects\ConvertFigure\ConvertFigure\obj\Debug\ConvertFigure.pdb
+C:\Users\cs12061\Desktop\Practice\ConvertFigure\ConvertFigure\bin\Debug\ConvertFigure.exe.config
+C:\Users\cs12061\Desktop\Practice\ConvertFigure\ConvertFigure\obj\Debug\ConvertFigure.exe
+C:\Users\cs12061\Desktop\Practice\ConvertFigure\ConvertFigure\obj\Debug\ConvertFigure.pdb
